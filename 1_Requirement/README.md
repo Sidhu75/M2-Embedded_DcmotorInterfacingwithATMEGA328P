@@ -8,6 +8,10 @@ I performed two operations with DC motor
 1) Controlling DC motor using in clockwise direction using switch.
 2) Controlling DC motor direction( clockwise & anticlockwise ) using switch.
 
+## RESEARCH
+
+
+
 DC MOTOR: 
 A direct current (DC) motor is a type of electric machine that converts electrical energy into mechanical energy. DC motors take electrical power through direct current, and convert this energy into mechanical rotation.
 DC motors use magnetic fields that occur from the electrical currents generated, which powers the movement of a rotor fixed within the output shaft. The output torque and speed depends upon both the electrical input and the design of the motor.
