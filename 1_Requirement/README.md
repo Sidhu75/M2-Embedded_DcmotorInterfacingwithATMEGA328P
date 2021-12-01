@@ -46,6 +46,7 @@ How : Programming and simulation can be done on terminal and simulide from Perso
 ## High Level Requirements :
 | ID | Description | Status |
 | --- | --- | --- |
+| HLR_1 | The user can change its selected sign("ON","OFF"). | Implemented |
 | HLR_1 | The user can on and off DC motor | Implemented |
 | HLR_2	| atmega 328 Microcontroller used for the entire process |  Implemented |
 | HLR_3 |	Source Code	Used for the Execute the system |  Implemented |
