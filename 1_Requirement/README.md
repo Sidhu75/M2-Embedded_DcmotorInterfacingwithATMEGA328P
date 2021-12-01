@@ -37,3 +37,18 @@ Where : On the Laptop or PC .
 How : Programming and simulation can be done on terminal and simulide from Personal computer or laptop.
 
 
+
+## Detail Requirements :
+
+## High Level Requirements :
+| ID | Description | Status |
+| --- | --- | --- |
+| HLR_1 | The user can change its selected sign("ON","OFF"). | Implemented |
+
+## Low Level Requiremnets :
+| ID | Description | Status |
+| --- | --- | --- |
+| LLR_1 | List of operations displayed | Implemented |
+| LLR_2 | Input from the user. | Implemented |
+| LLR_3 |Exit the program . | Implemented |
+
