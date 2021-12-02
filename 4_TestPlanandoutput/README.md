@@ -18,3 +18,11 @@
 
 
 ![dcmotor anti clk](https://user-images.githubusercontent.com/94243541/144359909-8372bd5c-296f-44d3-9f60-ae0bae1d30fe.png)
+## OUTPUT VIDEO
+
+
+
+
+
+https://user-images.githubusercontent.com/94374211/144287944-a2a58ed9-d12b-4fc5-810e-909c11a3c4b2.mp4
+
