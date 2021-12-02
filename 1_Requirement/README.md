@@ -33,7 +33,7 @@ Who : Can be done by person having knowledge of embedded .
 
 What : Do programming of microcontroller and perform simulation.
 
-When :
+When :System can be used when we need to work on any system having DC motor. 
 
 Where : On the Laptop or PC .
 
